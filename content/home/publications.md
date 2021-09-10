@@ -18,6 +18,6 @@ content:
 headless: true
 design:
   view: 4
-  columns: "1"
+  columns: "2"
 ---
 (Publication title)
