@@ -17,7 +17,7 @@ organizations:
     url: www.wisc.edu
 education:
   courses:
-    - course: BA in Mathematics, French Studies
+    - course: BA, Mathematics and French Studies
       institution: Lewis & Clark College
       year: 2020
 superuser: true
