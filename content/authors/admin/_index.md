@@ -8,24 +8,18 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=zIb56uMAAAAJ&view_op=list_works&gmla=AJsN-F5sL_PWVKFtyI6rVW66ukhahk6EFTiKScx5L3AJpzOwHD-petMWd1jYc9vb5SqG3Sq0CebwKT7idiQSMhgcfStple6dgPW_eSNYp4LvCeVYcaBfhdg
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Wisconsin-Madison
+    url: www.wisc.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Mathematics, French Studies
+      institution: Lewis & Clark College
+      year: 2020
 superuser: true
 highlight_name: true
 title: Caitlin Davis
